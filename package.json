@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "build": "webpack",
     "start": "webpack serve"
   },
   "devDependencies": {
@@ -13,6 +14,6 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
-    "@material/button": "^9.0.0"
+    "@material/button": "^10.0.0"
   }
 }
